@@ -4,6 +4,10 @@ Estrategia operativa de empleabilidad remota internacional para perfil **Python 
 
 No es teoría. Es material listo para ejecutar: CV, LinkedIn, READMEs vendibles, listas de empresas, mensajes de outreach y un plan de saneo del propio GitHub.
 
+## Punto de entrada conceptual
+
+> **[`ESTRATEGIA.md`](ESTRATEGIA.md)** — documento maestro. El porqué detrás de cada entregable: diagnóstico, ventajas, riesgos, segmentación de mercados, rankings, plan 14/30/90, KPIs y errores a evitar. Léelo una vez completo antes de ejecutar los `docs/`.
+
 ## Cómo usar este repo
 
 Lee los documentos en orden. Cada uno se puede usar de forma independiente, pero el orden refleja el flujo natural de ejecución:
